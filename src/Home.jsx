@@ -8,8 +8,8 @@ import "swiper/css/thumbs";
 import "remixicon/fonts/remixicon.css";
 import Hero from "./components/pages/Hero";
 import Contact from "./components/pages/Contact";
-import About from "./components/pages/About";
 import Help from "./components/pages/Help";
+import About from "./components/pages/About";
 
 const Home = () => {
   const swiperRef = useRef(null);
@@ -37,10 +37,10 @@ const Home = () => {
   }, []);
 
   const slides = [
-    { background: "bg-[#122315]", component: <Hero /> },
-    { background: "bg-[#122315]", component: <Contact /> },
-    { background: "bg-[#122315]", component: <About /> },
-    { background: "bg-[#122315]", component: <Help /> },
+    { background: "bg-[#002347]", component: <Hero /> },
+    { background: "bg-[#002347]", component: <Contact /> },
+    { background: "bg-[#002347]", component: <About /> },
+    { background: "bg-[#002347]", component: <Help /> },
   ];
 
   return (

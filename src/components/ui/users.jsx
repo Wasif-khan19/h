@@ -36,7 +36,7 @@ export function AnimatedTooltipPreview() {
         <div className="ml-6">
           {" "}
           {/* Change ml-4 to your desired spacing */}
-          <h1 className="text-xl font-medium text-[#55dd4a] tracking-tight">
+          <h1 className="text-xl font-medium text-[#8ecae6] tracking-tight">
             +69k <span className="text-[#f3ede4]">users</span>
           </h1>
         </div>
