@@ -45,7 +45,7 @@ const AboutSection = () => {
 
               <div className="flex justify-center lg:justify-center">
                 <Button className="bg-[#ff8e00] items-center justify-center py-4 sm:py-6 px-6 sm:px-8 rounded-xl sm:rounded-2xl text-white text-lg sm:text-xl font-black tracking-normal hover:shadow-lg hover:bg-[#ff8e00]">
-                  GET STARTED
+                  GIVE US SUGGESTION
                 </Button>
               </div>
             </div>

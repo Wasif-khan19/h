@@ -27,7 +27,7 @@ const Hero = () => {
                 GET VOICE <MicVocal />
               </Button>
               <Button className="bg-[#219ebc] space-x-2 gap-2 hover:bg-[#219ebc] py-6 rounded-2xl text-white text-xl font-black tracking-normal hover:shadow-lg ">
-                LETS&apos;S GO
+                CONTACT
               </Button>
             </div>
           </div>

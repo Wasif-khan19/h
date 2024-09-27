@@ -1,0 +1,1 @@
+export const USER_API_ENDPOINT ="http://192.168.48.1:9000/api/v1/user"
